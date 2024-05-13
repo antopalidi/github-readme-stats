@@ -14,7 +14,7 @@ import { langCardLocales } from "../translations.js";
 
 const DEFAULT_CARD_WIDTH = 300;
 const MIN_CARD_WIDTH = 230;
-const DEFAULT_LANGS_COUNT = 5;
+const DEFAULT_LANGS_COUNT = 6;
 const DEFAULT_LANG_COLOR = "#858585";
 const CARD_PADDING = 25;
 
